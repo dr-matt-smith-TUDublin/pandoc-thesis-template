@@ -1,5 +1,9 @@
 # Introduction
 
+## Motivation
+
+to make it easy for students to create high quality reports - and avoid the rush at the last minute.
+
 ## Simple figure
 
 Here is a simple figure.
